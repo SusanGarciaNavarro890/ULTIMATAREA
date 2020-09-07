@@ -63,6 +63,11 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+
+figcaption {
+	color: yellow;
+}
+
 .contenedor img {
 	width:150px;
 	height: 200px;
@@ -82,7 +87,7 @@ p {
 
  }
  footer {
- 	color: white;
+ 	color: red;
  	font-size: 25px;
  	font-family: fantasy;
  }
